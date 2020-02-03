@@ -1,2 +1,2 @@
 #!/bin/bash
-grep root /[D[D[D[D[D[Dtc/passwd
+grep root /etc/passwd
